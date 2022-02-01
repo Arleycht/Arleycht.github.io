@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    flex: auto;
+}
+
+.center {
+    display: block;
+    margin: auto;
+}
